@@ -20,8 +20,8 @@
 9. [📔 API 명세서](#-api-명세서)
 10. [✔ 주요 기능](#-주요-기능)
 11. [🧮 화면 설계](#-화면-설계)
-12. [🖼️ 스크린샷](#%EF%B8%8F-스크린샷)
-13. [🌋 트러블 슈팅](#-트러블-슈팅)
+12. [🖼️ 스크린샷](#%EF%B8%8F-스크린샷-ScreenShot)
+13. [🌋 트러블 슈팅](#-트러블-슈팅-Trouble-Shooting)
 14. [😄 Commit Convention](#-Commit-Convention)
 
 <br>
@@ -264,10 +264,10 @@ jwt.secret=if_you_want_then_fill_it
 [포스기 화면 설계](https://docs.google.com/presentation/d/1hvGYlNxWSIBJ5ox-ibsM8a0oAv9CNDqkSrhDtgVqUGs/edit#slide=id.g27411544873_0_606)
 
 
-## 🖼️ 스크린샷
+## 🖼️ 스크린샷 ScreenShot
 
 <details>
-<summary>테이블 오더(모바일) 앱 스크린샷</summary>
+<summary>테이블 오더(Mobile) 앱 스크린샷 ScreenShot</summary>
 <div markdown="1">
 
 ### 테이블 등록
@@ -332,7 +332,7 @@ jwt.secret=if_you_want_then_fill_it
 </details>
 <br>
 
-## 🌋 트러블 슈팅
+## 🌋 트러블 슈팅 Trouble Shooting
 <details>
 <summary>임주연(ljy)</summary>
 <div markdown="1">
